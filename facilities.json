@@ -1,0 +1,3880 @@
+{
+  "/workspaces/verapaz_kishan/facilities": {
+    "b6b0f5b0-f9ff-11ec-aacc-610345dd393c": {
+      "parentFacility": null,
+      "address": null,
+      "updatedBy": {
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2",
+        "email": "salla@orijin.io",
+        "refcollection": "platformusers",
+        "isPreviousVersion": false
+      },
+      "farmDetails": null,
+      "location": {
+        "altitudeMax": null,
+        "altitudeMin": null,
+        "latLong": {
+          "lat": 15.561167,
+          "lon": -89.823
+        },
+        "altitude": null
+      },
+      "updatedDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "isDeleted": false,
+      "accessControlDivision": null,
+      "totalArea": null,
+      "facilityType": "CollectionFacility",
+      "documents": [],
+      "accessControlTag": "referenceData",
+      "contactLastName": null,
+      "meta_workspace": "verapaz_kishan",
+      "nickName": null,
+      "createdBy": {
+        "email": "salla@orijin.io",
+        "refcollection": "platformusers",
+        "isPreviousVersion": false,
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2"
+      },
+      "isArchived": false,
+      "id": {
+        "isPreviousVersion": false,
+        "qrCode": "123",
+        "label": "ADIOESMAC",
+        "labelShort": "ADI",
+        "refcollection": "facilities",
+        "shortCode": "123",
+        "id": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c"
+      },
+      "properties": {
+        "idLabelShort": "ADI",
+        "customId": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c"
+      },
+      "users": [],
+      "createdDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "plots": [],
+      "contactFirstName": null,
+      "name": "ADIOESMAC",
+      "timezone": null,
+      "meta_organisation": "verapaz"
+    },
+    "b6b11cc0-f9ff-11ec-aacc-610345dd393c": {
+      "accessControlTag": "referenceData",
+      "plots": [],
+      "timezone": null,
+      "id": {
+        "qrCode": "123",
+        "labelShort": "OFFICE",
+        "isPreviousVersion": false,
+        "shortCode": "123",
+        "refcollection": "facilities",
+        "id": "b6b11cc0-f9ff-11ec-aacc-610345dd393c",
+        "label": "Office"
+      },
+      "documents": [],
+      "meta_organisation": "verapaz",
+      "address": null,
+      "nickName": null,
+      "totalArea": null,
+      "name": "Office",
+      "contactFirstName": null,
+      "location": {
+        "altitudeMax": null,
+        "altitudeMin": null,
+        "latLong": {
+          "lon": -90.384659,
+          "lat": 15.467743
+        },
+        "altitude": null
+      },
+      "facilityType": "ProductionFactory",
+      "createdBy": {
+        "isPreviousVersion": false,
+        "email": "salla@orijin.io",
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2",
+        "refcollection": "platformusers"
+      },
+      "properties": {
+        "idLabelShort": "OFFICE",
+        "customId": "b6b11cc0-f9ff-11ec-aacc-610345dd393c"
+      },
+      "accessControlDivision": null,
+      "isArchived": false,
+      "createdDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "farmDetails": null,
+      "updatedDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "meta_workspace": "verapaz_kishan",
+      "users": [],
+      "parentFacility": null,
+      "updatedBy": {
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2",
+        "isPreviousVersion": false,
+        "email": "salla@orijin.io",
+        "refcollection": "platformusers"
+      },
+      "contactLastName": null,
+      "isDeleted": false
+    },
+    "ba6af070-f9ff-11ec-aacc-610345dd393c": {
+      "meta_organisation": "verapaz",
+      "properties": {
+        "cropArea": 14000,
+        "crops": [
+          "cacao"
+        ],
+        "code": "Tz-001",
+        "customId": "ba6af070-f9ff-11ec-aacc-610345dd393c"
+      },
+      "users": [],
+      "contactFirstName": "Abelino",
+      "isDeleted": false,
+      "facilityType": "Farm",
+      "nickName": null,
+      "location": {
+        "altitudeMax": null,
+        "altitude": null,
+        "altitudeMin": null,
+        "name": "Tzalamtun",
+        "latLong": {
+          "lat": -1.684222,
+          "lon": -79.762139
+        }
+      },
+      "accessControlTag": "referenceData",
+      "farmDetails": {
+        "numberOfPlants": null,
+        "properties": {
+          "address": {
+            "countryCode": "GT",
+            "text": null,
+            "country": "Guatemala",
+            "city": null,
+            "postalCode": null,
+            "properties": {},
+            "state": null,
+            "street": null
+          },
+          "parentFacility": {
+            "shortCode": "123",
+            "labelShort": "ADI",
+            "isPreviousVersion": false,
+            "refcollection": "facilities",
+            "label": "ADIOESMAC",
+            "qrCode": "123",
+            "id": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c"
+          },
+          "location": {
+            "altitudeMax": null,
+            "altitude": null,
+            "altitudeMin": null,
+            "latLong": {
+              "lat": -1.684222,
+              "lon": -79.762139
+            },
+            "name": "Tzalamtun"
+          },
+          "facilityType": "Farm"
+        },
+        "cultivationStartDate": null,
+        "cropArea": 14000,
+        "crops": [
+          "cacao"
+        ],
+        "farmModel": null,
+        "varieties": []
+      },
+      "name": "Abelino Mo Chub",
+      "documents": [],
+      "isArchived": false,
+      "address": {
+        "country": "Guatemala",
+        "countryCode": "GT",
+        "properties": {},
+        "state": null,
+        "text": null,
+        "street": null,
+        "city": null,
+        "postalCode": null
+      },
+      "updatedDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "totalArea": 14000,
+      "timezone": "America/Guatemala",
+      "contactLastName": "Mo Chub",
+      "plots": [],
+      "createdDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "createdBy": {
+        "email": "salla@orijin.io",
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2",
+        "isPreviousVersion": false,
+        "refcollection": "platformusers"
+      },
+      "parentFacility": {
+        "shortCode": "123",
+        "isPreviousVersion": false,
+        "id": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c",
+        "labelShort": "ADI",
+        "qrCode": "123",
+        "label": "ADIOESMAC",
+        "refcollection": "facilities"
+      },
+      "meta_workspace": "verapaz_kishan",
+      "updatedBy": {
+        "isPreviousVersion": false,
+        "email": "salla@orijin.io",
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2",
+        "refcollection": "platformusers"
+      },
+      "accessControlDivision": null,
+      "id": {
+        "shortCode": "123",
+        "refcollection": "facilities",
+        "label": "Abelino Mo Chub",
+        "id": "ba6af070-f9ff-11ec-aacc-610345dd393c",
+        "isPreviousVersion": false,
+        "qrCode": "123"
+      }
+    },
+    "ba6d8880-f9ff-11ec-aacc-610345dd393c": {
+      "location": {
+        "altitudeMin": null,
+        "name": "Tzalamtun",
+        "altitude": null,
+        "latLong": {
+          "lat": -1.684222,
+          "lon": -79.762139
+        },
+        "altitudeMax": null
+      },
+      "accessControlDivision": null,
+      "updatedBy": {
+        "isPreviousVersion": false,
+        "refcollection": "platformusers",
+        "email": "salla@orijin.io",
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2"
+      },
+      "contactFirstName": "Sebastian",
+      "isArchived": false,
+      "contactLastName": "Tiul Yaxcal",
+      "nickName": null,
+      "meta_workspace": "verapaz_kishan",
+      "accessControlTag": "referenceData",
+      "createdBy": {
+        "email": "salla@orijin.io",
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2",
+        "refcollection": "platformusers",
+        "isPreviousVersion": false
+      },
+      "facilityType": "Farm",
+      "totalArea": 10000,
+      "meta_organisation": "verapaz",
+      "parentFacility": {
+        "isPreviousVersion": false,
+        "labelShort": "ADI",
+        "id": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c",
+        "qrCode": "123",
+        "shortCode": "123",
+        "label": "ADIOESMAC",
+        "refcollection": "facilities"
+      },
+      "updatedDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "address": {
+        "country": "Guatemala",
+        "properties": {},
+        "state": null,
+        "postalCode": null,
+        "street": null,
+        "text": null,
+        "countryCode": "GT",
+        "city": null
+      },
+      "timezone": "America/Guatemala",
+      "users": [],
+      "id": {
+        "isPreviousVersion": false,
+        "label": "Sebastian Tiul Yaxcal",
+        "qrCode": "123",
+        "id": "ba6d8880-f9ff-11ec-aacc-610345dd393c",
+        "shortCode": "123",
+        "refcollection": "facilities"
+      },
+      "name": "Sebastian Tiul Yaxcal",
+      "documents": [],
+      "isDeleted": false,
+      "farmDetails": {
+        "varieties": [],
+        "farmModel": null,
+        "cropArea": 10000,
+        "properties": {
+          "location": {
+            "altitudeMin": null,
+            "name": "Tzalamtun",
+            "altitude": null,
+            "latLong": {
+              "lat": -1.684222,
+              "lon": -79.762139
+            },
+            "altitudeMax": null
+          },
+          "facilityType": "Farm",
+          "address": {
+            "postalCode": null,
+            "properties": {},
+            "country": "Guatemala",
+            "countryCode": "GT",
+            "text": null,
+            "city": null,
+            "state": null,
+            "street": null
+          },
+          "parentFacility": {
+            "qrCode": "123",
+            "refcollection": "facilities",
+            "shortCode": "123",
+            "labelShort": "ADI",
+            "label": "ADIOESMAC",
+            "isPreviousVersion": false,
+            "id": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c"
+          }
+        },
+        "crops": [
+          "cacao"
+        ],
+        "cultivationStartDate": null,
+        "numberOfPlants": null
+      },
+      "createdDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "properties": {
+        "code": "Tz-002",
+        "crops": [
+          "cacao"
+        ],
+        "customId": "ba6d8880-f9ff-11ec-aacc-610345dd393c",
+        "cropArea": 10000
+      },
+      "plots": []
+    },
+    "ba6ff980-f9ff-11ec-aacc-610345dd393c": {
+      "documents": [],
+      "id": {
+        "refcollection": "facilities",
+        "shortCode": "123",
+        "id": "ba6ff980-f9ff-11ec-aacc-610345dd393c",
+        "qrCode": "123",
+        "isPreviousVersion": false,
+        "label": "Ricardo Tiul Maquin"
+      },
+      "facilityType": "Farm",
+      "timezone": "America/Guatemala",
+      "accessControlDivision": null,
+      "properties": {
+        "customId": "ba6ff980-f9ff-11ec-aacc-610345dd393c",
+        "code": "Tz-003",
+        "cropArea": 9900,
+        "crops": [
+          "cacao"
+        ]
+      },
+      "updatedDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "name": "Ricardo Tiul Maquin",
+      "isDeleted": false,
+      "plots": [],
+      "updatedBy": {
+        "email": "salla@orijin.io",
+        "isPreviousVersion": false,
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2",
+        "refcollection": "platformusers"
+      },
+      "farmDetails": {
+        "cropArea": 9900,
+        "varieties": [],
+        "cultivationStartDate": null,
+        "properties": {
+          "parentFacility": {
+            "label": "ADIOESMAC",
+            "isPreviousVersion": false,
+            "shortCode": "123",
+            "qrCode": "123",
+            "refcollection": "facilities",
+            "id": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c",
+            "labelShort": "ADI"
+          },
+          "facilityType": "Farm",
+          "location": {
+            "altitudeMax": null,
+            "name": "Tzalamtun",
+            "altitudeMin": null,
+            "latLong": {
+              "lon": -79.762139,
+              "lat": -1.684222
+            },
+            "altitude": null
+          },
+          "address": {
+            "city": null,
+            "street": null,
+            "country": "Guatemala",
+            "postalCode": null,
+            "countryCode": "GT",
+            "properties": {},
+            "state": null,
+            "text": null
+          }
+        },
+        "crops": [
+          "cacao"
+        ],
+        "farmModel": null,
+        "numberOfPlants": null
+      },
+      "contactLastName": "Tiul Maquin",
+      "accessControlTag": "referenceData",
+      "location": {
+        "latLong": {
+          "lon": -79.762139,
+          "lat": -1.684222
+        },
+        "altitudeMin": null,
+        "name": "Tzalamtun",
+        "altitudeMax": null,
+        "altitude": null
+      },
+      "address": {
+        "state": null,
+        "properties": {},
+        "city": null,
+        "street": null,
+        "text": null,
+        "countryCode": "GT",
+        "postalCode": null,
+        "country": "Guatemala"
+      },
+      "contactFirstName": "Ricardo",
+      "totalArea": 9900,
+      "parentFacility": {
+        "refcollection": "facilities",
+        "labelShort": "ADI",
+        "label": "ADIOESMAC",
+        "isPreviousVersion": false,
+        "qrCode": "123",
+        "shortCode": "123",
+        "id": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c"
+      },
+      "createdBy": {
+        "email": "salla@orijin.io",
+        "isPreviousVersion": false,
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2",
+        "refcollection": "platformusers"
+      },
+      "createdDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "meta_workspace": "verapaz_kishan",
+      "meta_organisation": "verapaz",
+      "isArchived": false,
+      "nickName": null,
+      "users": []
+    },
+    "ba715910-f9ff-11ec-aacc-610345dd393c": {
+      "meta_organisation": "verapaz",
+      "accessControlDivision": null,
+      "farmDetails": {
+        "numberOfPlants": null,
+        "crops": [
+          "cacao"
+        ],
+        "properties": {
+          "location": {
+            "altitudeMin": null,
+            "altitudeMax": null,
+            "name": "Tzalamtun",
+            "latLong": {
+              "lon": -79.762139,
+              "lat": -1.684222
+            },
+            "altitude": null
+          },
+          "facilityType": "Farm",
+          "address": {
+            "state": null,
+            "postalCode": null,
+            "country": "Guatemala",
+            "countryCode": "GT",
+            "text": null,
+            "city": null,
+            "properties": {},
+            "street": null
+          },
+          "parentFacility": {
+            "labelShort": "ADI",
+            "id": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c",
+            "shortCode": "123",
+            "qrCode": "123",
+            "label": "ADIOESMAC",
+            "isPreviousVersion": false,
+            "refcollection": "facilities"
+          }
+        },
+        "farmModel": null,
+        "cultivationStartDate": null,
+        "varieties": [],
+        "cropArea": 27200.000000000004
+      },
+      "isArchived": false,
+      "updatedDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "location": {
+        "altitude": null,
+        "altitudeMin": null,
+        "name": "Tzalamtun",
+        "altitudeMax": null,
+        "latLong": {
+          "lon": -79.762139,
+          "lat": -1.684222
+        }
+      },
+      "id": {
+        "label": "Pedro Tiul Caal",
+        "isPreviousVersion": false,
+        "refcollection": "facilities",
+        "shortCode": "123",
+        "id": "ba715910-f9ff-11ec-aacc-610345dd393c",
+        "qrCode": "123"
+      },
+      "plots": [],
+      "createdDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "accessControlTag": "referenceData",
+      "isDeleted": false,
+      "parentFacility": {
+        "labelShort": "ADI",
+        "label": "ADIOESMAC",
+        "refcollection": "facilities",
+        "id": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c",
+        "isPreviousVersion": false,
+        "shortCode": "123",
+        "qrCode": "123"
+      },
+      "totalArea": 27200.000000000004,
+      "contactLastName": "Tiul Caal",
+      "documents": [],
+      "updatedBy": {
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2",
+        "refcollection": "platformusers",
+        "email": "salla@orijin.io",
+        "isPreviousVersion": false
+      },
+      "facilityType": "Farm",
+      "users": [],
+      "name": "Pedro Tiul Caal",
+      "nickName": null,
+      "createdBy": {
+        "refcollection": "platformusers",
+        "isPreviousVersion": false,
+        "email": "salla@orijin.io",
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2"
+      },
+      "contactFirstName": "Pedro",
+      "properties": {
+        "crops": [
+          "cacao"
+        ],
+        "customId": "ba715910-f9ff-11ec-aacc-610345dd393c",
+        "cropArea": 27200.000000000004,
+        "code": "Tz-004"
+      },
+      "timezone": "America/Guatemala",
+      "address": {
+        "country": "Guatemala",
+        "state": null,
+        "street": null,
+        "city": null,
+        "countryCode": "GT",
+        "text": null,
+        "properties": {},
+        "postalCode": null
+      },
+      "meta_workspace": "verapaz_kishan"
+    },
+    "ba726a80-f9ff-11ec-aacc-610345dd393c": {
+      "timezone": "America/Guatemala",
+      "contactLastName": "Tiul Yaxcal",
+      "users": [],
+      "createdBy": {
+        "email": "salla@orijin.io",
+        "refcollection": "platformusers",
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2",
+        "isPreviousVersion": false
+      },
+      "updatedDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "createdDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "farmDetails": {
+        "properties": {
+          "address": {
+            "state": null,
+            "properties": {},
+            "text": null,
+            "postalCode": null,
+            "country": "Guatemala",
+            "street": null,
+            "countryCode": "GT",
+            "city": null
+          },
+          "parentFacility": {
+            "shortCode": "123",
+            "labelShort": "ADI",
+            "label": "ADIOESMAC",
+            "isPreviousVersion": false,
+            "refcollection": "facilities",
+            "id": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c",
+            "qrCode": "123"
+          },
+          "facilityType": "Farm",
+          "location": {
+            "latLong": {
+              "lon": -79.762139,
+              "lat": -1.684222
+            },
+            "name": "Tzalamtun",
+            "altitudeMax": null,
+            "altitude": null,
+            "altitudeMin": null
+          }
+        },
+        "varieties": [],
+        "farmModel": null,
+        "cropArea": 10000,
+        "cultivationStartDate": null,
+        "crops": [
+          "cacao"
+        ],
+        "numberOfPlants": null
+      },
+      "properties": {
+        "cropArea": 10000,
+        "customId": "ba726a80-f9ff-11ec-aacc-610345dd393c",
+        "code": "Tz-005",
+        "crops": [
+          "cacao"
+        ]
+      },
+      "name": "Vicente Tiul Yaxcal",
+      "nickName": null,
+      "isDeleted": false,
+      "plots": [],
+      "updatedBy": {
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2",
+        "isPreviousVersion": false,
+        "refcollection": "platformusers",
+        "email": "salla@orijin.io"
+      },
+      "parentFacility": {
+        "qrCode": "123",
+        "refcollection": "facilities",
+        "labelShort": "ADI",
+        "label": "ADIOESMAC",
+        "id": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c",
+        "isPreviousVersion": false,
+        "shortCode": "123"
+      },
+      "id": {
+        "label": "Vicente Tiul Yaxcal",
+        "qrCode": "123",
+        "id": "ba726a80-f9ff-11ec-aacc-610345dd393c",
+        "refcollection": "facilities",
+        "isPreviousVersion": false,
+        "shortCode": "123"
+      },
+      "facilityType": "Farm",
+      "meta_workspace": "verapaz_kishan",
+      "accessControlDivision": null,
+      "accessControlTag": "referenceData",
+      "meta_organisation": "verapaz",
+      "contactFirstName": "Vicente",
+      "documents": [],
+      "address": {
+        "state": null,
+        "properties": {},
+        "postalCode": null,
+        "country": "Guatemala",
+        "countryCode": "GT",
+        "city": null,
+        "text": null,
+        "street": null
+      },
+      "location": {
+        "altitude": null,
+        "name": "Tzalamtun",
+        "altitudeMin": null,
+        "altitudeMax": null,
+        "latLong": {
+          "lon": -79.762139,
+          "lat": -1.684222
+        }
+      },
+      "isArchived": false,
+      "totalArea": 10000
+    },
+    "ba737bf0-f9ff-11ec-aacc-610345dd393c": {
+      "meta_workspace": "verapaz_kishan",
+      "id": {
+        "label": "Santiago Chub Che",
+        "qrCode": "123",
+        "isPreviousVersion": false,
+        "shortCode": "123",
+        "id": "ba737bf0-f9ff-11ec-aacc-610345dd393c",
+        "refcollection": "facilities"
+      },
+      "accessControlTag": "referenceData",
+      "updatedBy": {
+        "email": "salla@orijin.io",
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2",
+        "isPreviousVersion": false,
+        "refcollection": "platformusers"
+      },
+      "isArchived": false,
+      "address": {
+        "postalCode": null,
+        "properties": {},
+        "city": null,
+        "text": null,
+        "state": null,
+        "street": null,
+        "country": "Guatemala",
+        "countryCode": "GT"
+      },
+      "accessControlDivision": null,
+      "meta_organisation": "verapaz",
+      "timezone": "America/Guatemala",
+      "users": [],
+      "plots": [],
+      "contactFirstName": "Santiago",
+      "totalArea": 14100,
+      "updatedDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "isDeleted": false,
+      "location": {
+        "altitudeMax": null,
+        "altitude": null,
+        "name": "Tzalamtun",
+        "altitudeMin": null,
+        "latLong": {
+          "lon": -79.762139,
+          "lat": -1.684222
+        }
+      },
+      "createdBy": {
+        "email": "salla@orijin.io",
+        "isPreviousVersion": false,
+        "refcollection": "platformusers",
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2"
+      },
+      "contactLastName": "Chub Che",
+      "name": "Santiago Chub Che",
+      "nickName": null,
+      "documents": [],
+      "farmDetails": {
+        "cultivationStartDate": null,
+        "varieties": [],
+        "numberOfPlants": null,
+        "cropArea": 14100,
+        "crops": [
+          "cacao"
+        ],
+        "farmModel": null,
+        "properties": {
+          "location": {
+            "altitudeMax": null,
+            "latLong": {
+              "lon": -79.762139,
+              "lat": -1.684222
+            },
+            "altitude": null,
+            "altitudeMin": null,
+            "name": "Tzalamtun"
+          },
+          "facilityType": "Farm",
+          "parentFacility": {
+            "shortCode": "123",
+            "label": "ADIOESMAC",
+            "isPreviousVersion": false,
+            "id": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c",
+            "qrCode": "123",
+            "refcollection": "facilities",
+            "labelShort": "ADI"
+          },
+          "address": {
+            "country": "Guatemala",
+            "state": null,
+            "street": null,
+            "properties": {},
+            "city": null,
+            "postalCode": null,
+            "text": null,
+            "countryCode": "GT"
+          }
+        }
+      },
+      "properties": {
+        "customId": "ba737bf0-f9ff-11ec-aacc-610345dd393c",
+        "cropArea": 14100,
+        "code": "Tz-006",
+        "crops": [
+          "cacao"
+        ]
+      },
+      "parentFacility": {
+        "id": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c",
+        "refcollection": "facilities",
+        "labelShort": "ADI",
+        "label": "ADIOESMAC",
+        "shortCode": "123",
+        "qrCode": "123",
+        "isPreviousVersion": false
+      },
+      "facilityType": "Farm",
+      "createdDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      }
+    },
+    "ba743f40-f9ff-11ec-aacc-610345dd393c": {
+      "accessControlTag": "referenceData",
+      "isArchived": false,
+      "plots": [],
+      "accessControlDivision": null,
+      "meta_organisation": "verapaz",
+      "properties": {
+        "code": "Tz-007",
+        "cropArea": 5300,
+        "customId": "ba743f40-f9ff-11ec-aacc-610345dd393c",
+        "crops": [
+          "cacao"
+        ]
+      },
+      "parentFacility": {
+        "shortCode": "123",
+        "refcollection": "facilities",
+        "id": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c",
+        "isPreviousVersion": false,
+        "label": "ADIOESMAC",
+        "qrCode": "123",
+        "labelShort": "ADI"
+      },
+      "updatedBy": {
+        "refcollection": "platformusers",
+        "email": "salla@orijin.io",
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2",
+        "isPreviousVersion": false
+      },
+      "createdDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "meta_workspace": "verapaz_kishan",
+      "farmDetails": {
+        "crops": [
+          "cacao"
+        ],
+        "cropArea": 5300,
+        "cultivationStartDate": null,
+        "varieties": [],
+        "farmModel": null,
+        "numberOfPlants": null,
+        "properties": {
+          "location": {
+            "altitudeMax": null,
+            "name": "Tzalamtun",
+            "altitudeMin": null,
+            "altitude": null,
+            "latLong": {
+              "lat": -1.684222,
+              "lon": -79.762139
+            }
+          },
+          "facilityType": "Farm",
+          "parentFacility": {
+            "refcollection": "facilities",
+            "id": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c",
+            "qrCode": "123",
+            "shortCode": "123",
+            "label": "ADIOESMAC",
+            "isPreviousVersion": false,
+            "labelShort": "ADI"
+          },
+          "address": {
+            "country": "Guatemala",
+            "street": null,
+            "state": null,
+            "text": null,
+            "city": null,
+            "countryCode": "GT",
+            "properties": {},
+            "postalCode": null
+          }
+        }
+      },
+      "nickName": null,
+      "totalArea": 5300,
+      "timezone": "America/Guatemala",
+      "contactFirstName": "Antonio",
+      "updatedDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "documents": [],
+      "contactLastName": "Chub Cho",
+      "createdBy": {
+        "isPreviousVersion": false,
+        "email": "salla@orijin.io",
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2",
+        "refcollection": "platformusers"
+      },
+      "id": {
+        "qrCode": "123",
+        "isPreviousVersion": false,
+        "refcollection": "facilities",
+        "id": "ba743f40-f9ff-11ec-aacc-610345dd393c",
+        "shortCode": "123",
+        "label": "Antonio Chub Cho"
+      },
+      "facilityType": "Farm",
+      "name": "Antonio Chub Cho",
+      "isDeleted": false,
+      "address": {
+        "text": null,
+        "properties": {},
+        "countryCode": "GT",
+        "country": "Guatemala",
+        "street": null,
+        "postalCode": null,
+        "state": null,
+        "city": null
+      },
+      "location": {
+        "name": "Tzalamtun",
+        "latLong": {
+          "lon": -79.762139,
+          "lat": -1.684222
+        },
+        "altitude": null,
+        "altitudeMin": null,
+        "altitudeMax": null
+      },
+      "users": []
+    },
+    "ba74b470-f9ff-11ec-aacc-610345dd393c": {
+      "properties": {
+        "code": "Tz-008",
+        "customId": "ba74b470-f9ff-11ec-aacc-610345dd393c",
+        "crops": [
+          "cacao"
+        ],
+        "cropArea": 15000
+      },
+      "isArchived": false,
+      "accessControlDivision": null,
+      "contactFirstName": "Alberto",
+      "facilityType": "Farm",
+      "location": {
+        "altitudeMax": null,
+        "latLong": {
+          "lat": -1.684222,
+          "lon": -79.762139
+        },
+        "altitude": null,
+        "name": "Tzalamtun",
+        "altitudeMin": null
+      },
+      "meta_workspace": "verapaz_kishan",
+      "totalArea": 15000,
+      "accessControlTag": "referenceData",
+      "address": {
+        "country": "Guatemala",
+        "text": null,
+        "city": null,
+        "countryCode": "GT",
+        "postalCode": null,
+        "street": null,
+        "properties": {},
+        "state": null
+      },
+      "nickName": null,
+      "meta_organisation": "verapaz",
+      "contactLastName": "Tiul Sub",
+      "parentFacility": {
+        "id": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c",
+        "labelShort": "ADI",
+        "qrCode": "123",
+        "shortCode": "123",
+        "isPreviousVersion": false,
+        "refcollection": "facilities",
+        "label": "ADIOESMAC"
+      },
+      "users": [],
+      "createdDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "timezone": "America/Guatemala",
+      "documents": [],
+      "createdBy": {
+        "email": "salla@orijin.io",
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2",
+        "isPreviousVersion": false,
+        "refcollection": "platformusers"
+      },
+      "updatedBy": {
+        "isPreviousVersion": false,
+        "refcollection": "platformusers",
+        "email": "salla@orijin.io",
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2"
+      },
+      "plots": [],
+      "id": {
+        "refcollection": "facilities",
+        "id": "ba74b470-f9ff-11ec-aacc-610345dd393c",
+        "shortCode": "123",
+        "isPreviousVersion": false,
+        "qrCode": "123",
+        "label": "Alberto Tiul Sub"
+      },
+      "name": "Alberto Tiul Sub",
+      "updatedDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "farmDetails": {
+        "numberOfPlants": null,
+        "cultivationStartDate": null,
+        "farmModel": null,
+        "cropArea": 15000,
+        "crops": [
+          "cacao"
+        ],
+        "properties": {
+          "parentFacility": {
+            "label": "ADIOESMAC",
+            "labelShort": "ADI",
+            "shortCode": "123",
+            "refcollection": "facilities",
+            "isPreviousVersion": false,
+            "qrCode": "123",
+            "id": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c"
+          },
+          "facilityType": "Farm",
+          "address": {
+            "postalCode": null,
+            "country": "Guatemala",
+            "text": null,
+            "state": null,
+            "city": null,
+            "properties": {},
+            "countryCode": "GT",
+            "street": null
+          },
+          "location": {
+            "altitudeMax": null,
+            "latLong": {
+              "lon": -79.762139,
+              "lat": -1.684222
+            },
+            "altitudeMin": null,
+            "name": "Tzalamtun",
+            "altitude": null
+          }
+        },
+        "varieties": []
+      },
+      "isDeleted": false
+    },
+    "ba750290-f9ff-11ec-aacc-610345dd393c": {
+      "accessControlDivision": null,
+      "nickName": null,
+      "name": "Jacinto Yaxcal",
+      "address": {
+        "properties": {},
+        "country": "Guatemala",
+        "street": null,
+        "countryCode": "GT",
+        "postalCode": null,
+        "text": null,
+        "city": null,
+        "state": null
+      },
+      "contactLastName": "Yaxcal",
+      "facilityType": "Farm",
+      "meta_workspace": "verapaz_kishan",
+      "parentFacility": {
+        "qrCode": "123",
+        "labelShort": "ADI",
+        "label": "ADIOESMAC",
+        "id": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c",
+        "isPreviousVersion": false,
+        "refcollection": "facilities",
+        "shortCode": "123"
+      },
+      "timezone": "America/Guatemala",
+      "createdBy": {
+        "isPreviousVersion": false,
+        "email": "salla@orijin.io",
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2",
+        "refcollection": "platformusers"
+      },
+      "totalArea": 7500,
+      "updatedDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "properties": {
+        "customId": "ba750290-f9ff-11ec-aacc-610345dd393c",
+        "crops": [
+          "cacao"
+        ],
+        "code": "Tz-009",
+        "cropArea": 7500
+      },
+      "documents": [],
+      "location": {
+        "altitudeMin": null,
+        "altitudeMax": null,
+        "name": "Tzalamtun",
+        "latLong": {
+          "lon": -79.762139,
+          "lat": -1.684222
+        },
+        "altitude": null
+      },
+      "users": [],
+      "id": {
+        "id": "ba750290-f9ff-11ec-aacc-610345dd393c",
+        "shortCode": "123",
+        "qrCode": "123",
+        "isPreviousVersion": false,
+        "refcollection": "facilities",
+        "label": "Jacinto Yaxcal"
+      },
+      "updatedBy": {
+        "email": "salla@orijin.io",
+        "isPreviousVersion": false,
+        "refcollection": "platformusers",
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2"
+      },
+      "plots": [],
+      "meta_organisation": "verapaz",
+      "contactFirstName": "Jacinto",
+      "accessControlTag": "referenceData",
+      "createdDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "isArchived": false,
+      "farmDetails": {
+        "properties": {
+          "address": {
+            "city": null,
+            "countryCode": "GT",
+            "properties": {},
+            "street": null,
+            "state": null,
+            "country": "Guatemala",
+            "text": null,
+            "postalCode": null
+          },
+          "location": {
+            "altitudeMax": null,
+            "latLong": {
+              "lon": -79.762139,
+              "lat": -1.684222
+            },
+            "altitudeMin": null,
+            "name": "Tzalamtun",
+            "altitude": null
+          },
+          "parentFacility": {
+            "shortCode": "123",
+            "id": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c",
+            "labelShort": "ADI",
+            "refcollection": "facilities",
+            "isPreviousVersion": false,
+            "qrCode": "123",
+            "label": "ADIOESMAC"
+          },
+          "facilityType": "Farm"
+        },
+        "farmModel": null,
+        "varieties": [],
+        "crops": [
+          "cacao"
+        ],
+        "numberOfPlants": null,
+        "cultivationStartDate": null,
+        "cropArea": 7500
+      },
+      "isDeleted": false
+    },
+    "ba7550b0-f9ff-11ec-aacc-610345dd393c": {
+      "properties": {
+        "customId": "ba7550b0-f9ff-11ec-aacc-610345dd393c",
+        "cropArea": 6600,
+        "crops": [
+          "cacao"
+        ],
+        "code": "Tz-010"
+      },
+      "updatedDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "documents": [],
+      "updatedBy": {
+        "isPreviousVersion": false,
+        "refcollection": "platformusers",
+        "email": "salla@orijin.io",
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2"
+      },
+      "contactLastName": "Tiul Ico",
+      "plots": [],
+      "createdBy": {
+        "isPreviousVersion": false,
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2",
+        "email": "salla@orijin.io",
+        "refcollection": "platformusers"
+      },
+      "isArchived": false,
+      "facilityType": "Farm",
+      "meta_workspace": "verapaz_kishan",
+      "name": "Ricardo Tiul Ico",
+      "totalArea": 6600,
+      "accessControlDivision": null,
+      "timezone": "America/Guatemala",
+      "users": [],
+      "createdDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "nickName": null,
+      "accessControlTag": "referenceData",
+      "location": {
+        "altitudeMin": null,
+        "latLong": {
+          "lon": -79.762139,
+          "lat": -1.684222
+        },
+        "altitude": null,
+        "altitudeMax": null,
+        "name": "Tzalamtun"
+      },
+      "parentFacility": {
+        "refcollection": "facilities",
+        "isPreviousVersion": false,
+        "qrCode": "123",
+        "id": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c",
+        "label": "ADIOESMAC",
+        "labelShort": "ADI",
+        "shortCode": "123"
+      },
+      "meta_organisation": "verapaz",
+      "id": {
+        "isPreviousVersion": false,
+        "id": "ba7550b0-f9ff-11ec-aacc-610345dd393c",
+        "refcollection": "facilities",
+        "shortCode": "123",
+        "qrCode": "123",
+        "label": "Ricardo Tiul Ico"
+      },
+      "contactFirstName": "Ricardo",
+      "address": {
+        "state": null,
+        "street": null,
+        "country": "Guatemala",
+        "text": null,
+        "properties": {},
+        "city": null,
+        "countryCode": "GT",
+        "postalCode": null
+      },
+      "farmDetails": {
+        "crops": [
+          "cacao"
+        ],
+        "properties": {
+          "parentFacility": {
+            "refcollection": "facilities",
+            "labelShort": "ADI",
+            "shortCode": "123",
+            "id": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c",
+            "label": "ADIOESMAC",
+            "qrCode": "123",
+            "isPreviousVersion": false
+          },
+          "location": {
+            "altitudeMin": null,
+            "altitude": null,
+            "name": "Tzalamtun",
+            "latLong": {
+              "lat": -1.684222,
+              "lon": -79.762139
+            },
+            "altitudeMax": null
+          },
+          "address": {
+            "properties": {},
+            "countryCode": "GT",
+            "country": "Guatemala",
+            "postalCode": null,
+            "street": null,
+            "state": null,
+            "city": null,
+            "text": null
+          },
+          "facilityType": "Farm"
+        },
+        "cultivationStartDate": null,
+        "farmModel": null,
+        "numberOfPlants": null,
+        "varieties": [],
+        "cropArea": 6600
+      },
+      "isDeleted": false
+    },
+    "ba7577c0-f9ff-11ec-aacc-610345dd393c": {
+      "isDeleted": false,
+      "createdDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "meta_organisation": "verapaz",
+      "location": {
+        "altitude": null,
+        "altitudeMax": null,
+        "altitudeMin": null,
+        "name": "Tzalamtun",
+        "latLong": {
+          "lat": -1.684222,
+          "lon": -79.762139
+        }
+      },
+      "parentFacility": {
+        "qrCode": "123",
+        "shortCode": "123",
+        "refcollection": "facilities",
+        "isPreviousVersion": false,
+        "labelShort": "ADI",
+        "id": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c",
+        "label": "ADIOESMAC"
+      },
+      "id": {
+        "isPreviousVersion": false,
+        "id": "ba7577c0-f9ff-11ec-aacc-610345dd393c",
+        "shortCode": "123",
+        "refcollection": "facilities",
+        "qrCode": "123",
+        "label": "Cesar Augusto Cuz"
+      },
+      "address": {
+        "country": "Guatemala",
+        "text": null,
+        "properties": {},
+        "postalCode": null,
+        "street": null,
+        "city": null,
+        "state": null,
+        "countryCode": "GT"
+      },
+      "farmDetails": {
+        "varieties": [],
+        "numberOfPlants": null,
+        "cultivationStartDate": null,
+        "properties": {
+          "address": {
+            "postalCode": null,
+            "city": null,
+            "street": null,
+            "text": null,
+            "properties": {},
+            "countryCode": "GT",
+            "state": null,
+            "country": "Guatemala"
+          },
+          "location": {
+            "name": "Tzalamtun",
+            "altitudeMin": null,
+            "latLong": {
+              "lat": -1.684222,
+              "lon": -79.762139
+            },
+            "altitude": null,
+            "altitudeMax": null
+          },
+          "facilityType": "Farm",
+          "parentFacility": {
+            "shortCode": "123",
+            "id": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c",
+            "labelShort": "ADI",
+            "qrCode": "123",
+            "isPreviousVersion": false,
+            "refcollection": "facilities",
+            "label": "ADIOESMAC"
+          }
+        },
+        "cropArea": 10000,
+        "crops": [
+          "cacao"
+        ],
+        "farmModel": null
+      },
+      "contactFirstName": "Cesar Augusto",
+      "documents": [],
+      "accessControlDivision": null,
+      "facilityType": "Farm",
+      "updatedBy": {
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2",
+        "isPreviousVersion": false,
+        "refcollection": "platformusers",
+        "email": "salla@orijin.io"
+      },
+      "contactLastName": "Cuz",
+      "accessControlTag": "referenceData",
+      "properties": {
+        "customId": "ba7577c0-f9ff-11ec-aacc-610345dd393c",
+        "crops": [
+          "cacao"
+        ],
+        "code": "Tz-011",
+        "cropArea": 10000
+      },
+      "totalArea": 10000,
+      "createdBy": {
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2",
+        "refcollection": "platformusers",
+        "isPreviousVersion": false,
+        "email": "salla@orijin.io"
+      },
+      "nickName": null,
+      "meta_workspace": "verapaz_kishan",
+      "updatedDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "timezone": "America/Guatemala",
+      "name": "Cesar Augusto Cuz",
+      "users": [],
+      "isArchived": false,
+      "plots": []
+    },
+    "ba75c5e0-f9ff-11ec-aacc-610345dd393c": {
+      "facilityType": "Farm",
+      "updatedDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "updatedBy": {
+        "refcollection": "platformusers",
+        "email": "salla@orijin.io",
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2",
+        "isPreviousVersion": false
+      },
+      "location": {
+        "altitude": null,
+        "altitudeMin": null,
+        "name": "Tzalamtun",
+        "altitudeMax": null,
+        "latLong": {
+          "lat": -1.684222,
+          "lon": -79.762139
+        }
+      },
+      "timezone": "America/Guatemala",
+      "totalArea": 20000,
+      "plots": [],
+      "documents": [],
+      "nickName": null,
+      "meta_organisation": "verapaz",
+      "farmDetails": {
+        "varieties": [],
+        "numberOfPlants": null,
+        "cropArea": 20000,
+        "farmModel": null,
+        "properties": {
+          "address": {
+            "street": null,
+            "postalCode": null,
+            "city": null,
+            "countryCode": "GT",
+            "state": null,
+            "text": null,
+            "properties": {},
+            "country": "Guatemala"
+          },
+          "parentFacility": {
+            "labelShort": "ADI",
+            "qrCode": "123",
+            "refcollection": "facilities",
+            "label": "ADIOESMAC",
+            "shortCode": "123",
+            "isPreviousVersion": false,
+            "id": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c"
+          },
+          "facilityType": "Farm",
+          "location": {
+            "latLong": {
+              "lat": -1.684222,
+              "lon": -79.762139
+            },
+            "altitudeMin": null,
+            "name": "Tzalamtun",
+            "altitudeMax": null,
+            "altitude": null
+          }
+        },
+        "crops": [
+          "cacao"
+        ],
+        "cultivationStartDate": null
+      },
+      "meta_workspace": "verapaz_kishan",
+      "name": "Agustin Cuz Caal",
+      "createdDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "properties": {
+        "cropArea": 20000,
+        "code": "Tz-012",
+        "crops": [
+          "cacao"
+        ],
+        "customId": "ba75c5e0-f9ff-11ec-aacc-610345dd393c"
+      },
+      "id": {
+        "qrCode": "123",
+        "isPreviousVersion": false,
+        "shortCode": "123",
+        "refcollection": "facilities",
+        "id": "ba75c5e0-f9ff-11ec-aacc-610345dd393c",
+        "label": "Agustin Cuz Caal"
+      },
+      "isArchived": false,
+      "address": {
+        "text": null,
+        "properties": {},
+        "countryCode": "GT",
+        "street": null,
+        "country": "Guatemala",
+        "city": null,
+        "postalCode": null,
+        "state": null
+      },
+      "contactFirstName": "Agustin",
+      "contactLastName": "Cuz Caal",
+      "accessControlTag": "referenceData",
+      "isDeleted": false,
+      "users": [],
+      "parentFacility": {
+        "labelShort": "ADI",
+        "isPreviousVersion": false,
+        "refcollection": "facilities",
+        "shortCode": "123",
+        "id": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c",
+        "label": "ADIOESMAC",
+        "qrCode": "123"
+      },
+      "createdBy": {
+        "isPreviousVersion": false,
+        "refcollection": "platformusers",
+        "email": "salla@orijin.io",
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2"
+      },
+      "accessControlDivision": null
+    },
+    "ba761400-f9ff-11ec-aacc-610345dd393c": {
+      "meta_organisation": "verapaz",
+      "location": {
+        "altitude": null,
+        "altitudeMin": null,
+        "latLong": {
+          "lon": -79.762139,
+          "lat": -1.684222
+        },
+        "name": "Tzalamtun",
+        "altitudeMax": null
+      },
+      "accessControlTag": "referenceData",
+      "createdDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "updatedDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "accessControlDivision": null,
+      "id": {
+        "shortCode": "123",
+        "qrCode": "123",
+        "isPreviousVersion": false,
+        "refcollection": "facilities",
+        "id": "ba761400-f9ff-11ec-aacc-610345dd393c",
+        "label": "Oscar Pacham Ical"
+      },
+      "timezone": "America/Guatemala",
+      "farmDetails": {
+        "varieties": [],
+        "cropArea": 8000,
+        "properties": {
+          "location": {
+            "latLong": {
+              "lon": -79.762139,
+              "lat": -1.684222
+            },
+            "altitudeMin": null,
+            "altitudeMax": null,
+            "name": "Tzalamtun",
+            "altitude": null
+          },
+          "facilityType": "Farm",
+          "address": {
+            "text": null,
+            "state": null,
+            "properties": {},
+            "postalCode": null,
+            "country": "Guatemala",
+            "street": null,
+            "city": null,
+            "countryCode": "GT"
+          },
+          "parentFacility": {
+            "shortCode": "123",
+            "id": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c",
+            "label": "ADIOESMAC",
+            "qrCode": "123",
+            "labelShort": "ADI",
+            "isPreviousVersion": false,
+            "refcollection": "facilities"
+          }
+        },
+        "crops": [
+          "cacao"
+        ],
+        "numberOfPlants": null,
+        "cultivationStartDate": null,
+        "farmModel": null
+      },
+      "createdBy": {
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2",
+        "email": "salla@orijin.io",
+        "isPreviousVersion": false,
+        "refcollection": "platformusers"
+      },
+      "parentFacility": {
+        "label": "ADIOESMAC",
+        "qrCode": "123",
+        "refcollection": "facilities",
+        "isPreviousVersion": false,
+        "labelShort": "ADI",
+        "shortCode": "123",
+        "id": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c"
+      },
+      "users": [],
+      "documents": [],
+      "facilityType": "Farm",
+      "properties": {
+        "customId": "ba761400-f9ff-11ec-aacc-610345dd393c",
+        "crops": [
+          "cacao"
+        ],
+        "cropArea": 8000,
+        "code": "Tz-013"
+      },
+      "updatedBy": {
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2",
+        "refcollection": "platformusers",
+        "isPreviousVersion": false,
+        "email": "salla@orijin.io"
+      },
+      "isArchived": false,
+      "totalArea": 8000,
+      "contactFirstName": "Oscar",
+      "contactLastName": "Pacham Ical",
+      "nickName": null,
+      "meta_workspace": "verapaz_kishan",
+      "plots": [],
+      "isDeleted": false,
+      "address": {
+        "state": null,
+        "countryCode": "GT",
+        "city": null,
+        "street": null,
+        "postalCode": null,
+        "country": "Guatemala",
+        "properties": {},
+        "text": null
+      },
+      "name": "Oscar Pacham Ical"
+    },
+    "ba763b10-f9ff-11ec-aacc-610345dd393c": {
+      "isDeleted": false,
+      "updatedBy": {
+        "isPreviousVersion": false,
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2",
+        "email": "salla@orijin.io",
+        "refcollection": "platformusers"
+      },
+      "createdDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "properties": {
+        "cropArea": 13000,
+        "customId": "ba763b10-f9ff-11ec-aacc-610345dd393c",
+        "code": "Tz-014",
+        "crops": [
+          "cacao"
+        ]
+      },
+      "parentFacility": {
+        "labelShort": "ADI",
+        "qrCode": "123",
+        "isPreviousVersion": false,
+        "refcollection": "facilities",
+        "shortCode": "123",
+        "id": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c",
+        "label": "ADIOESMAC"
+      },
+      "totalArea": 13000,
+      "farmDetails": {
+        "properties": {
+          "parentFacility": {
+            "shortCode": "123",
+            "id": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c",
+            "labelShort": "ADI",
+            "qrCode": "123",
+            "label": "ADIOESMAC",
+            "refcollection": "facilities",
+            "isPreviousVersion": false
+          },
+          "address": {
+            "state": null,
+            "street": null,
+            "countryCode": "GT",
+            "postalCode": null,
+            "properties": {},
+            "city": null,
+            "country": "Guatemala",
+            "text": null
+          },
+          "facilityType": "Farm",
+          "location": {
+            "altitude": null,
+            "name": "Tzalamtun",
+            "altitudeMax": null,
+            "latLong": {
+              "lat": -1.684222,
+              "lon": -79.762139
+            },
+            "altitudeMin": null
+          }
+        },
+        "farmModel": null,
+        "cultivationStartDate": null,
+        "numberOfPlants": null,
+        "crops": [
+          "cacao"
+        ],
+        "cropArea": 13000,
+        "varieties": []
+      },
+      "facilityType": "Farm",
+      "nickName": null,
+      "accessControlTag": "referenceData",
+      "updatedDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "name": "Jose Pop Tiul",
+      "users": [],
+      "location": {
+        "altitudeMin": null,
+        "name": "Tzalamtun",
+        "latLong": {
+          "lat": -1.684222,
+          "lon": -79.762139
+        },
+        "altitudeMax": null,
+        "altitude": null
+      },
+      "plots": [],
+      "accessControlDivision": null,
+      "meta_workspace": "verapaz_kishan",
+      "address": {
+        "properties": {},
+        "street": null,
+        "country": "Guatemala",
+        "state": null,
+        "countryCode": "GT",
+        "city": null,
+        "text": null,
+        "postalCode": null
+      },
+      "isArchived": false,
+      "timezone": "America/Guatemala",
+      "contactFirstName": "Jose",
+      "createdBy": {
+        "email": "salla@orijin.io",
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2",
+        "refcollection": "platformusers",
+        "isPreviousVersion": false
+      },
+      "meta_organisation": "verapaz",
+      "id": {
+        "label": "Jose Pop Tiul",
+        "id": "ba763b10-f9ff-11ec-aacc-610345dd393c",
+        "shortCode": "123",
+        "refcollection": "facilities",
+        "qrCode": "123",
+        "isPreviousVersion": false
+      },
+      "contactLastName": "Pop Tiul",
+      "documents": []
+    },
+    "ba766220-f9ff-11ec-aacc-610345dd393c": {
+      "meta_organisation": "verapaz",
+      "accessControlDivision": null,
+      "updatedDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "location": {
+        "altitudeMax": null,
+        "altitudeMin": null,
+        "altitude": null,
+        "name": "Tzalamtun",
+        "latLong": {
+          "lon": -79.762139,
+          "lat": -1.684222
+        }
+      },
+      "id": {
+        "label": "Miguel Cum Choc",
+        "shortCode": "123",
+        "isPreviousVersion": false,
+        "id": "ba766220-f9ff-11ec-aacc-610345dd393c",
+        "refcollection": "facilities",
+        "qrCode": "123"
+      },
+      "createdBy": {
+        "email": "salla@orijin.io",
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2",
+        "isPreviousVersion": false,
+        "refcollection": "platformusers"
+      },
+      "documents": [],
+      "totalArea": 4400,
+      "nickName": null,
+      "contactFirstName": "Miguel",
+      "properties": {
+        "customId": "ba766220-f9ff-11ec-aacc-610345dd393c",
+        "crops": [
+          "cacao"
+        ],
+        "cropArea": 4400,
+        "code": "Tz-015"
+      },
+      "isArchived": false,
+      "isDeleted": false,
+      "timezone": "America/Guatemala",
+      "address": {
+        "countryCode": "GT",
+        "postalCode": null,
+        "city": null,
+        "text": null,
+        "street": null,
+        "state": null,
+        "country": "Guatemala",
+        "properties": {}
+      },
+      "name": "Miguel Cum Choc",
+      "plots": [],
+      "contactLastName": "Cum Choc",
+      "users": [],
+      "createdDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "updatedBy": {
+        "refcollection": "platformusers",
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2",
+        "isPreviousVersion": false,
+        "email": "salla@orijin.io"
+      },
+      "accessControlTag": "referenceData",
+      "parentFacility": {
+        "qrCode": "123",
+        "refcollection": "facilities",
+        "shortCode": "123",
+        "isPreviousVersion": false,
+        "id": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c",
+        "label": "ADIOESMAC",
+        "labelShort": "ADI"
+      },
+      "meta_workspace": "verapaz_kishan",
+      "facilityType": "Farm",
+      "farmDetails": {
+        "varieties": [],
+        "numberOfPlants": null,
+        "crops": [
+          "cacao"
+        ],
+        "properties": {
+          "location": {
+            "altitudeMin": null,
+            "name": "Tzalamtun",
+            "altitudeMax": null,
+            "latLong": {
+              "lon": -79.762139,
+              "lat": -1.684222
+            },
+            "altitude": null
+          },
+          "address": {
+            "text": null,
+            "country": "Guatemala",
+            "countryCode": "GT",
+            "city": null,
+            "state": null,
+            "properties": {},
+            "postalCode": null,
+            "street": null
+          },
+          "facilityType": "Farm",
+          "parentFacility": {
+            "shortCode": "123",
+            "labelShort": "ADI",
+            "refcollection": "facilities",
+            "id": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c",
+            "label": "ADIOESMAC",
+            "qrCode": "123",
+            "isPreviousVersion": false
+          }
+        },
+        "cropArea": 4400,
+        "farmModel": null,
+        "cultivationStartDate": null
+      }
+    },
+    "ba76d750-f9ff-11ec-aacc-610345dd393c": {
+      "properties": {
+        "crops": [
+          "cacao"
+        ],
+        "customId": "ba76d750-f9ff-11ec-aacc-610345dd393c",
+        "code": "Tz-016",
+        "cropArea": 14000
+      },
+      "updatedBy": {
+        "isPreviousVersion": false,
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2",
+        "email": "salla@orijin.io",
+        "refcollection": "platformusers"
+      },
+      "isDeleted": false,
+      "createdBy": {
+        "isPreviousVersion": false,
+        "refcollection": "platformusers",
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2",
+        "email": "salla@orijin.io"
+      },
+      "nickName": null,
+      "name": "Sebastian Tiul Choc",
+      "users": [],
+      "updatedDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "location": {
+        "altitude": null,
+        "latLong": {
+          "lat": -1.684222,
+          "lon": -79.762139
+        },
+        "name": "Tzalamtun",
+        "altitudeMin": null,
+        "altitudeMax": null
+      },
+      "accessControlDivision": null,
+      "isArchived": false,
+      "parentFacility": {
+        "id": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c",
+        "labelShort": "ADI",
+        "qrCode": "123",
+        "shortCode": "123",
+        "label": "ADIOESMAC",
+        "refcollection": "facilities",
+        "isPreviousVersion": false
+      },
+      "timezone": "America/Guatemala",
+      "createdDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "id": {
+        "id": "ba76d750-f9ff-11ec-aacc-610345dd393c",
+        "label": "Sebastian Tiul Choc",
+        "shortCode": "123",
+        "isPreviousVersion": false,
+        "qrCode": "123",
+        "refcollection": "facilities"
+      },
+      "plots": [],
+      "contactLastName": "Tiul Choc",
+      "meta_organisation": "verapaz",
+      "documents": [],
+      "meta_workspace": "verapaz_kishan",
+      "totalArea": 14000,
+      "facilityType": "Farm",
+      "accessControlTag": "referenceData",
+      "address": {
+        "countryCode": "GT",
+        "country": "Guatemala",
+        "properties": {},
+        "street": null,
+        "city": null,
+        "state": null,
+        "postalCode": null,
+        "text": null
+      },
+      "farmDetails": {
+        "cropArea": 14000,
+        "varieties": [],
+        "farmModel": null,
+        "numberOfPlants": null,
+        "properties": {
+          "address": {
+            "properties": {},
+            "street": null,
+            "text": null,
+            "countryCode": "GT",
+            "state": null,
+            "city": null,
+            "postalCode": null,
+            "country": "Guatemala"
+          },
+          "parentFacility": {
+            "labelShort": "ADI",
+            "qrCode": "123",
+            "shortCode": "123",
+            "label": "ADIOESMAC",
+            "id": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c",
+            "isPreviousVersion": false,
+            "refcollection": "facilities"
+          },
+          "location": {
+            "altitude": null,
+            "altitudeMax": null,
+            "latLong": {
+              "lat": -1.684222,
+              "lon": -79.762139
+            },
+            "altitudeMin": null,
+            "name": "Tzalamtun"
+          },
+          "facilityType": "Farm"
+        },
+        "crops": [
+          "cacao"
+        ],
+        "cultivationStartDate": null
+      },
+      "contactFirstName": "Sebastian"
+    },
+    "ba76fe60-f9ff-11ec-aacc-610345dd393c": {
+      "accessControlDivision": null,
+      "farmDetails": {
+        "numberOfPlants": null,
+        "varieties": [],
+        "crops": [
+          "cacao"
+        ],
+        "farmModel": null,
+        "cropArea": 4500,
+        "properties": {
+          "facilityType": "Farm",
+          "parentFacility": {
+            "isPreviousVersion": false,
+            "qrCode": "123",
+            "labelShort": "ADI",
+            "shortCode": "123",
+            "label": "ADIOESMAC",
+            "refcollection": "facilities",
+            "id": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c"
+          },
+          "location": {
+            "latLong": {
+              "lon": -79.762139,
+              "lat": -1.684222
+            },
+            "altitudeMin": null,
+            "altitudeMax": null,
+            "altitude": null,
+            "name": "Tzalamtun"
+          },
+          "address": {
+            "countryCode": "GT",
+            "state": null,
+            "postalCode": null,
+            "city": null,
+            "properties": {},
+            "country": "Guatemala",
+            "text": null,
+            "street": null
+          }
+        },
+        "cultivationStartDate": null
+      },
+      "createdBy": {
+        "refcollection": "platformusers",
+        "email": "salla@orijin.io",
+        "isPreviousVersion": false,
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2"
+      },
+      "createdDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "updatedBy": {
+        "refcollection": "platformusers",
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2",
+        "isPreviousVersion": false,
+        "email": "salla@orijin.io"
+      },
+      "nickName": null,
+      "name": "Levi Daniel Tiul Ico",
+      "isDeleted": false,
+      "meta_workspace": "verapaz_kishan",
+      "location": {
+        "name": "Tzalamtun",
+        "altitudeMin": null,
+        "altitudeMax": null,
+        "latLong": {
+          "lat": -1.684222,
+          "lon": -79.762139
+        },
+        "altitude": null
+      },
+      "parentFacility": {
+        "shortCode": "123",
+        "id": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c",
+        "label": "ADIOESMAC",
+        "labelShort": "ADI",
+        "isPreviousVersion": false,
+        "qrCode": "123",
+        "refcollection": "facilities"
+      },
+      "timezone": "America/Guatemala",
+      "contactLastName": "Tiul Ico",
+      "address": {
+        "country": "Guatemala",
+        "text": null,
+        "postalCode": null,
+        "countryCode": "GT",
+        "state": null,
+        "properties": {},
+        "city": null,
+        "street": null
+      },
+      "contactFirstName": "Levi Daniel",
+      "id": {
+        "id": "ba76fe60-f9ff-11ec-aacc-610345dd393c",
+        "isPreviousVersion": false,
+        "refcollection": "facilities",
+        "qrCode": "123",
+        "shortCode": "123",
+        "label": "Levi Daniel Tiul Ico"
+      },
+      "documents": [],
+      "totalArea": 4500,
+      "users": [],
+      "plots": [],
+      "isArchived": false,
+      "properties": {
+        "code": "Tz-017",
+        "cropArea": 4500,
+        "customId": "ba76fe60-f9ff-11ec-aacc-610345dd393c",
+        "crops": [
+          "cacao"
+        ]
+      },
+      "updatedDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "meta_organisation": "verapaz",
+      "accessControlTag": "referenceData",
+      "facilityType": "Farm"
+    },
+    "ba774c80-f9ff-11ec-aacc-610345dd393c": {
+      "createdBy": {
+        "isPreviousVersion": false,
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2",
+        "email": "salla@orijin.io",
+        "refcollection": "platformusers"
+      },
+      "meta_workspace": "verapaz_kishan",
+      "plots": [],
+      "name": "Jose Humberto Cuz",
+      "isDeleted": false,
+      "parentFacility": {
+        "label": "ADIOESMAC",
+        "labelShort": "ADI",
+        "refcollection": "facilities",
+        "id": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c",
+        "isPreviousVersion": false,
+        "qrCode": "123",
+        "shortCode": "123"
+      },
+      "contactFirstName": "Jose Humberto",
+      "accessControlTag": "referenceData",
+      "updatedDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "users": [],
+      "location": {
+        "altitudeMin": null,
+        "altitudeMax": null,
+        "name": "Tzalamtun",
+        "latLong": {
+          "lat": -1.684222,
+          "lon": -79.762139
+        },
+        "altitude": null
+      },
+      "accessControlDivision": null,
+      "id": {
+        "shortCode": "123",
+        "label": "Jose Humberto Cuz",
+        "qrCode": "123",
+        "refcollection": "facilities",
+        "isPreviousVersion": false,
+        "id": "ba774c80-f9ff-11ec-aacc-610345dd393c"
+      },
+      "totalArea": 15000,
+      "properties": {
+        "code": "Tz-018",
+        "customId": "ba774c80-f9ff-11ec-aacc-610345dd393c",
+        "cropArea": 15000,
+        "crops": [
+          "cacao"
+        ]
+      },
+      "farmDetails": {
+        "cropArea": 15000,
+        "farmModel": null,
+        "properties": {
+          "facilityType": "Farm",
+          "location": {
+            "altitudeMin": null,
+            "altitudeMax": null,
+            "name": "Tzalamtun",
+            "altitude": null,
+            "latLong": {
+              "lat": -1.684222,
+              "lon": -79.762139
+            }
+          },
+          "address": {
+            "state": null,
+            "country": "Guatemala",
+            "city": null,
+            "countryCode": "GT",
+            "postalCode": null,
+            "properties": {},
+            "street": null,
+            "text": null
+          },
+          "parentFacility": {
+            "labelShort": "ADI",
+            "qrCode": "123",
+            "shortCode": "123",
+            "label": "ADIOESMAC",
+            "id": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c",
+            "isPreviousVersion": false,
+            "refcollection": "facilities"
+          }
+        },
+        "varieties": [],
+        "numberOfPlants": null,
+        "cultivationStartDate": null,
+        "crops": [
+          "cacao"
+        ]
+      },
+      "facilityType": "Farm",
+      "meta_organisation": "verapaz",
+      "contactLastName": "Cuz",
+      "documents": [],
+      "timezone": "America/Guatemala",
+      "updatedBy": {
+        "email": "salla@orijin.io",
+        "isPreviousVersion": false,
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2",
+        "refcollection": "platformusers"
+      },
+      "nickName": null,
+      "createdDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "address": {
+        "properties": {},
+        "postalCode": null,
+        "state": null,
+        "country": "Guatemala",
+        "street": null,
+        "text": null,
+        "city": null,
+        "countryCode": "GT"
+      },
+      "isArchived": false
+    },
+    "ba777390-f9ff-11ec-aacc-610345dd393c": {
+      "documents": [],
+      "plots": [],
+      "isDeleted": false,
+      "createdDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "updatedDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "meta_organisation": "verapaz",
+      "updatedBy": {
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2",
+        "refcollection": "platformusers",
+        "email": "salla@orijin.io",
+        "isPreviousVersion": false
+      },
+      "totalArea": 12400,
+      "accessControlDivision": null,
+      "contactLastName": "Jor Coy",
+      "createdBy": {
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2",
+        "refcollection": "platformusers",
+        "email": "salla@orijin.io",
+        "isPreviousVersion": false
+      },
+      "farmDetails": {
+        "properties": {
+          "facilityType": "Farm",
+          "location": {
+            "altitudeMin": null,
+            "name": "Tzalamtun",
+            "altitude": null,
+            "altitudeMax": null,
+            "latLong": {
+              "lat": -1.684222,
+              "lon": -79.762139
+            }
+          },
+          "parentFacility": {
+            "refcollection": "facilities",
+            "labelShort": "ADI",
+            "isPreviousVersion": false,
+            "id": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c",
+            "shortCode": "123",
+            "label": "ADIOESMAC",
+            "qrCode": "123"
+          },
+          "address": {
+            "state": null,
+            "countryCode": "GT",
+            "text": null,
+            "street": null,
+            "properties": {},
+            "postalCode": null,
+            "city": null,
+            "country": "Guatemala"
+          }
+        },
+        "cultivationStartDate": null,
+        "crops": [
+          "cacao"
+        ],
+        "numberOfPlants": null,
+        "cropArea": 12400,
+        "farmModel": null,
+        "varieties": []
+      },
+      "location": {
+        "altitude": null,
+        "altitudeMin": null,
+        "latLong": {
+          "lat": -1.684222,
+          "lon": -79.762139
+        },
+        "altitudeMax": null,
+        "name": "Tzalamtun"
+      },
+      "timezone": "America/Guatemala",
+      "contactFirstName": "Pedro",
+      "nickName": null,
+      "id": {
+        "shortCode": "123",
+        "refcollection": "facilities",
+        "isPreviousVersion": false,
+        "qrCode": "123",
+        "id": "ba777390-f9ff-11ec-aacc-610345dd393c",
+        "label": "Pedro Jor Coy"
+      },
+      "properties": {
+        "crops": [
+          "cacao"
+        ],
+        "cropArea": 12400,
+        "customId": "ba777390-f9ff-11ec-aacc-610345dd393c",
+        "code": "Tz-019"
+      },
+      "users": [],
+      "name": "Pedro Jor Coy",
+      "accessControlTag": "referenceData",
+      "meta_workspace": "verapaz_kishan",
+      "facilityType": "Farm",
+      "address": {
+        "text": null,
+        "city": null,
+        "postalCode": null,
+        "properties": {},
+        "street": null,
+        "country": "Guatemala",
+        "countryCode": "GT",
+        "state": null
+      },
+      "isArchived": false,
+      "parentFacility": {
+        "labelShort": "ADI",
+        "id": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c",
+        "label": "ADIOESMAC",
+        "isPreviousVersion": false,
+        "refcollection": "facilities",
+        "shortCode": "123",
+        "qrCode": "123"
+      }
+    },
+    "ba779aa0-f9ff-11ec-aacc-610345dd393c": {
+      "meta_organisation": "verapaz",
+      "isArchived": false,
+      "properties": {
+        "customId": "ba779aa0-f9ff-11ec-aacc-610345dd393c",
+        "crops": [
+          "cacao"
+        ],
+        "code": "Tz-020",
+        "cropArea": 2600
+      },
+      "users": [],
+      "totalArea": 2600,
+      "contactLastName": "Tec Ico",
+      "facilityType": "Farm",
+      "id": {
+        "qrCode": "123",
+        "refcollection": "facilities",
+        "isPreviousVersion": false,
+        "label": "Hector Leonel Tec Ico",
+        "id": "ba779aa0-f9ff-11ec-aacc-610345dd393c",
+        "shortCode": "123"
+      },
+      "meta_workspace": "verapaz_kishan",
+      "nickName": null,
+      "plots": [],
+      "location": {
+        "altitudeMax": null,
+        "altitude": null,
+        "altitudeMin": null,
+        "name": "Tzalamtun",
+        "latLong": {
+          "lon": -79.762139,
+          "lat": -1.684222
+        }
+      },
+      "updatedBy": {
+        "email": "salla@orijin.io",
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2",
+        "refcollection": "platformusers",
+        "isPreviousVersion": false
+      },
+      "accessControlTag": "referenceData",
+      "accessControlDivision": null,
+      "timezone": "America/Guatemala",
+      "farmDetails": {
+        "crops": [
+          "cacao"
+        ],
+        "cultivationStartDate": null,
+        "farmModel": null,
+        "properties": {
+          "facilityType": "Farm",
+          "location": {
+            "altitude": null,
+            "name": "Tzalamtun",
+            "altitudeMax": null,
+            "altitudeMin": null,
+            "latLong": {
+              "lon": -79.762139,
+              "lat": -1.684222
+            }
+          },
+          "parentFacility": {
+            "label": "ADIOESMAC",
+            "refcollection": "facilities",
+            "isPreviousVersion": false,
+            "labelShort": "ADI",
+            "shortCode": "123",
+            "qrCode": "123",
+            "id": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c"
+          },
+          "address": {
+            "text": null,
+            "street": null,
+            "countryCode": "GT",
+            "country": "Guatemala",
+            "properties": {},
+            "city": null,
+            "state": null,
+            "postalCode": null
+          }
+        },
+        "numberOfPlants": null,
+        "varieties": [],
+        "cropArea": 2600
+      },
+      "createdBy": {
+        "isPreviousVersion": false,
+        "email": "salla@orijin.io",
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2",
+        "refcollection": "platformusers"
+      },
+      "name": "Hector Leonel Tec Ico",
+      "address": {
+        "properties": {},
+        "text": null,
+        "state": null,
+        "street": null,
+        "postalCode": null,
+        "countryCode": "GT",
+        "city": null,
+        "country": "Guatemala"
+      },
+      "updatedDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "documents": [],
+      "parentFacility": {
+        "label": "ADIOESMAC",
+        "shortCode": "123",
+        "qrCode": "123",
+        "id": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c",
+        "labelShort": "ADI",
+        "isPreviousVersion": false,
+        "refcollection": "facilities"
+      },
+      "contactFirstName": "Hector Leonel",
+      "createdDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "isDeleted": false
+    },
+    "ba77c1b0-f9ff-11ec-aacc-610345dd393c": {
+      "updatedDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "contactFirstName": "Alberto",
+      "contactLastName": "Tec Sotz",
+      "farmDetails": {
+        "cultivationStartDate": null,
+        "properties": {
+          "location": {
+            "name": "Tzalamtun",
+            "altitudeMax": null,
+            "altitude": null,
+            "altitudeMin": null,
+            "latLong": {
+              "lon": -79.762139,
+              "lat": -1.684222
+            }
+          },
+          "address": {
+            "city": null,
+            "postalCode": null,
+            "state": null,
+            "street": null,
+            "countryCode": "GT",
+            "properties": {},
+            "country": "Guatemala",
+            "text": null
+          },
+          "parentFacility": {
+            "refcollection": "facilities",
+            "isPreviousVersion": false,
+            "labelShort": "ADI",
+            "id": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c",
+            "shortCode": "123",
+            "qrCode": "123",
+            "label": "ADIOESMAC"
+          },
+          "facilityType": "Farm"
+        },
+        "numberOfPlants": null,
+        "cropArea": 15800,
+        "crops": [
+          "cacao"
+        ],
+        "farmModel": null,
+        "varieties": []
+      },
+      "name": "Alberto Tec Sotz",
+      "id": {
+        "id": "ba77c1b0-f9ff-11ec-aacc-610345dd393c",
+        "label": "Alberto Tec Sotz",
+        "qrCode": "123",
+        "refcollection": "facilities",
+        "shortCode": "123",
+        "isPreviousVersion": false
+      },
+      "plots": [],
+      "isArchived": false,
+      "parentFacility": {
+        "refcollection": "facilities",
+        "label": "ADIOESMAC",
+        "labelShort": "ADI",
+        "shortCode": "123",
+        "id": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c",
+        "isPreviousVersion": false,
+        "qrCode": "123"
+      },
+      "meta_workspace": "verapaz_kishan",
+      "facilityType": "Farm",
+      "createdBy": {
+        "isPreviousVersion": false,
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2",
+        "email": "salla@orijin.io",
+        "refcollection": "platformusers"
+      },
+      "meta_organisation": "verapaz",
+      "documents": [],
+      "createdDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "location": {
+        "altitudeMax": null,
+        "name": "Tzalamtun",
+        "altitude": null,
+        "latLong": {
+          "lon": -79.762139,
+          "lat": -1.684222
+        },
+        "altitudeMin": null
+      },
+      "properties": {
+        "customId": "ba77c1b0-f9ff-11ec-aacc-610345dd393c",
+        "cropArea": 15800,
+        "crops": [
+          "cacao"
+        ],
+        "code": "Tz-021"
+      },
+      "timezone": "America/Guatemala",
+      "isDeleted": false,
+      "users": [],
+      "accessControlTag": "referenceData",
+      "updatedBy": {
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2",
+        "refcollection": "platformusers",
+        "isPreviousVersion": false,
+        "email": "salla@orijin.io"
+      },
+      "totalArea": 15800,
+      "nickName": null,
+      "accessControlDivision": null,
+      "address": {
+        "text": null,
+        "city": null,
+        "country": "Guatemala",
+        "properties": {},
+        "countryCode": "GT",
+        "street": null,
+        "postalCode": null,
+        "state": null
+      }
+    },
+    "ba7836e0-f9ff-11ec-aacc-610345dd393c": {
+      "nickName": null,
+      "address": {
+        "state": null,
+        "postalCode": null,
+        "countryCode": "GT",
+        "city": null,
+        "country": "Guatemala",
+        "properties": {},
+        "text": null,
+        "street": null
+      },
+      "createdBy": {
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2",
+        "email": "salla@orijin.io",
+        "refcollection": "platformusers",
+        "isPreviousVersion": false
+      },
+      "createdDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "location": {
+        "altitudeMax": null,
+        "latLong": {
+          "lon": -79.762139,
+          "lat": -1.684222
+        },
+        "altitudeMin": null,
+        "name": "Tzalamtun",
+        "altitude": null
+      },
+      "updatedDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "updatedBy": {
+        "email": "salla@orijin.io",
+        "refcollection": "platformusers",
+        "isPreviousVersion": false,
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2"
+      },
+      "properties": {
+        "customId": "ba7836e0-f9ff-11ec-aacc-610345dd393c",
+        "cropArea": 6899.999999999999,
+        "crops": [
+          "cacao"
+        ],
+        "code": "Tz-022"
+      },
+      "name": "Jose Alfonso Tiul",
+      "meta_workspace": "verapaz_kishan",
+      "isDeleted": false,
+      "facilityType": "Farm",
+      "timezone": "America/Guatemala",
+      "plots": [],
+      "documents": [],
+      "accessControlDivision": null,
+      "id": {
+        "id": "ba7836e0-f9ff-11ec-aacc-610345dd393c",
+        "shortCode": "123",
+        "isPreviousVersion": false,
+        "qrCode": "123",
+        "refcollection": "facilities",
+        "label": "Jose Alfonso Tiul"
+      },
+      "contactLastName": "Tiul",
+      "users": [],
+      "accessControlTag": "referenceData",
+      "parentFacility": {
+        "qrCode": "123",
+        "labelShort": "ADI",
+        "shortCode": "123",
+        "label": "ADIOESMAC",
+        "refcollection": "facilities",
+        "id": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c",
+        "isPreviousVersion": false
+      },
+      "totalArea": 6899.999999999999,
+      "meta_organisation": "verapaz",
+      "isArchived": false,
+      "contactFirstName": "Jose Alfonso",
+      "farmDetails": {
+        "properties": {
+          "facilityType": "Farm",
+          "address": {
+            "street": null,
+            "postalCode": null,
+            "countryCode": "GT",
+            "city": null,
+            "text": null,
+            "state": null,
+            "properties": {},
+            "country": "Guatemala"
+          },
+          "parentFacility": {
+            "labelShort": "ADI",
+            "id": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c",
+            "qrCode": "123",
+            "label": "ADIOESMAC",
+            "isPreviousVersion": false,
+            "refcollection": "facilities",
+            "shortCode": "123"
+          },
+          "location": {
+            "altitudeMax": null,
+            "name": "Tzalamtun",
+            "altitudeMin": null,
+            "altitude": null,
+            "latLong": {
+              "lon": -79.762139,
+              "lat": -1.684222
+            }
+          }
+        },
+        "cultivationStartDate": null,
+        "crops": [
+          "cacao"
+        ],
+        "farmModel": null,
+        "cropArea": 6899.999999999999,
+        "varieties": [],
+        "numberOfPlants": null
+      }
+    },
+    "ba788500-f9ff-11ec-aacc-610345dd393c": {
+      "facilityType": "Farm",
+      "id": {
+        "refcollection": "facilities",
+        "isPreviousVersion": false,
+        "qrCode": "123",
+        "label": "Abelardo Tux Cac",
+        "id": "ba788500-f9ff-11ec-aacc-610345dd393c",
+        "shortCode": "123"
+      },
+      "totalArea": 6000,
+      "meta_workspace": "verapaz_kishan",
+      "timezone": "America/Guatemala",
+      "documents": [],
+      "nickName": null,
+      "accessControlDivision": null,
+      "location": {
+        "altitudeMax": null,
+        "altitudeMin": null,
+        "altitude": null,
+        "name": "Tzalamtun",
+        "latLong": {
+          "lon": -79.762139,
+          "lat": -1.684222
+        }
+      },
+      "users": [],
+      "farmDetails": {
+        "cropArea": 6000,
+        "crops": [
+          "cacao"
+        ],
+        "properties": {
+          "address": {
+            "country": "Guatemala",
+            "text": null,
+            "countryCode": "GT",
+            "state": null,
+            "street": null,
+            "postalCode": null,
+            "properties": {},
+            "city": null
+          },
+          "parentFacility": {
+            "qrCode": "123",
+            "id": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c",
+            "isPreviousVersion": false,
+            "labelShort": "ADI",
+            "shortCode": "123",
+            "refcollection": "facilities",
+            "label": "ADIOESMAC"
+          },
+          "facilityType": "Farm",
+          "location": {
+            "latLong": {
+              "lat": -1.684222,
+              "lon": -79.762139
+            },
+            "altitudeMin": null,
+            "altitudeMax": null,
+            "altitude": null,
+            "name": "Tzalamtun"
+          }
+        },
+        "varieties": [],
+        "numberOfPlants": null,
+        "cultivationStartDate": null,
+        "farmModel": null
+      },
+      "properties": {
+        "cropArea": 6000,
+        "crops": [
+          "cacao"
+        ],
+        "customId": "ba788500-f9ff-11ec-aacc-610345dd393c",
+        "code": "Tz-023"
+      },
+      "name": "Abelardo Tux Cac",
+      "isDeleted": false,
+      "accessControlTag": "referenceData",
+      "createdBy": {
+        "refcollection": "platformusers",
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2",
+        "email": "salla@orijin.io",
+        "isPreviousVersion": false
+      },
+      "plots": [],
+      "contactFirstName": "Abelardo",
+      "address": {
+        "street": null,
+        "country": "Guatemala",
+        "state": null,
+        "properties": {},
+        "countryCode": "GT",
+        "postalCode": null,
+        "city": null,
+        "text": null
+      },
+      "createdDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "updatedBy": {
+        "email": "salla@orijin.io",
+        "isPreviousVersion": false,
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2",
+        "refcollection": "platformusers"
+      },
+      "contactLastName": "Tux Cac",
+      "isArchived": false,
+      "parentFacility": {
+        "label": "ADIOESMAC",
+        "labelShort": "ADI",
+        "refcollection": "facilities",
+        "shortCode": "123",
+        "isPreviousVersion": false,
+        "id": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c",
+        "qrCode": "123"
+      },
+      "updatedDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "meta_organisation": "verapaz"
+    },
+    "ba78ac10-f9ff-11ec-aacc-610345dd393c": {
+      "name": "Mauricio Ax Tiul",
+      "isDeleted": false,
+      "timezone": "America/Guatemala",
+      "farmDetails": {
+        "farmModel": null,
+        "crops": [
+          "cacao"
+        ],
+        "properties": {
+          "address": {
+            "street": null,
+            "country": "Guatemala",
+            "countryCode": "GT",
+            "state": null,
+            "text": null,
+            "properties": {},
+            "city": null,
+            "postalCode": null
+          },
+          "location": {
+            "altitude": null,
+            "altitudeMin": null,
+            "altitudeMax": null,
+            "latLong": {
+              "lat": -1.684222,
+              "lon": -79.762139
+            },
+            "name": "Tzalamtun"
+          },
+          "facilityType": "Farm",
+          "parentFacility": {
+            "id": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c",
+            "shortCode": "123",
+            "qrCode": "123",
+            "labelShort": "ADI",
+            "label": "ADIOESMAC",
+            "isPreviousVersion": false,
+            "refcollection": "facilities"
+          }
+        },
+        "cultivationStartDate": null,
+        "varieties": [],
+        "numberOfPlants": null,
+        "cropArea": 10800
+      },
+      "address": {
+        "text": null,
+        "state": null,
+        "street": null,
+        "properties": {},
+        "country": "Guatemala",
+        "city": null,
+        "postalCode": null,
+        "countryCode": "GT"
+      },
+      "createdBy": {
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2",
+        "isPreviousVersion": false,
+        "refcollection": "platformusers",
+        "email": "salla@orijin.io"
+      },
+      "updatedDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "plots": [],
+      "totalArea": 10800,
+      "properties": {
+        "customId": "ba78ac10-f9ff-11ec-aacc-610345dd393c",
+        "crops": [
+          "cacao"
+        ],
+        "cropArea": 10800,
+        "code": "Tz-024"
+      },
+      "updatedBy": {
+        "email": "salla@orijin.io",
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2",
+        "isPreviousVersion": false,
+        "refcollection": "platformusers"
+      },
+      "location": {
+        "altitude": null,
+        "latLong": {
+          "lon": -79.762139,
+          "lat": -1.684222
+        },
+        "altitudeMin": null,
+        "altitudeMax": null,
+        "name": "Tzalamtun"
+      },
+      "isArchived": false,
+      "nickName": null,
+      "facilityType": "Farm",
+      "documents": [],
+      "meta_organisation": "verapaz",
+      "createdDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "contactFirstName": "Mauricio",
+      "accessControlDivision": null,
+      "parentFacility": {
+        "qrCode": "123",
+        "id": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c",
+        "refcollection": "facilities",
+        "label": "ADIOESMAC",
+        "isPreviousVersion": false,
+        "labelShort": "ADI",
+        "shortCode": "123"
+      },
+      "id": {
+        "qrCode": "123",
+        "label": "Mauricio Ax Tiul",
+        "isPreviousVersion": false,
+        "id": "ba78ac10-f9ff-11ec-aacc-610345dd393c",
+        "shortCode": "123",
+        "refcollection": "facilities"
+      },
+      "accessControlTag": "referenceData",
+      "meta_workspace": "verapaz_kishan",
+      "contactLastName": "Ax Tiul",
+      "users": []
+    },
+    "ba78d320-f9ff-11ec-aacc-610345dd393c": {
+      "isDeleted": false,
+      "meta_organisation": "verapaz",
+      "updatedBy": {
+        "isPreviousVersion": false,
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2",
+        "refcollection": "platformusers",
+        "email": "salla@orijin.io"
+      },
+      "documents": [],
+      "address": {
+        "postalCode": null,
+        "text": null,
+        "state": null,
+        "countryCode": "GT",
+        "properties": {},
+        "street": null,
+        "country": "Guatemala",
+        "city": null
+      },
+      "users": [],
+      "id": {
+        "qrCode": "123",
+        "isPreviousVersion": false,
+        "label": "Josefina Yolanda Caal Sacul",
+        "shortCode": "123",
+        "refcollection": "facilities",
+        "id": "ba78d320-f9ff-11ec-aacc-610345dd393c"
+      },
+      "timezone": "America/Guatemala",
+      "createdBy": {
+        "email": "salla@orijin.io",
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2",
+        "isPreviousVersion": false,
+        "refcollection": "platformusers"
+      },
+      "isArchived": false,
+      "contactFirstName": null,
+      "facilityType": "Farm",
+      "farmDetails": {
+        "properties": {
+          "parentFacility": {
+            "refcollection": "facilities",
+            "isPreviousVersion": false,
+            "qrCode": "123",
+            "label": "ADIOESMAC",
+            "labelShort": "ADI",
+            "id": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c",
+            "shortCode": "123"
+          },
+          "location": {
+            "latLong": {
+              "lat": -1.684222,
+              "lon": -79.762139
+            },
+            "altitude": null,
+            "altitudeMin": null,
+            "name": "Tzalamtun",
+            "altitudeMax": null
+          },
+          "facilityType": "Farm",
+          "address": {
+            "text": null,
+            "country": "Guatemala",
+            "postalCode": null,
+            "properties": {},
+            "state": null,
+            "city": null,
+            "countryCode": "GT",
+            "street": null
+          }
+        },
+        "cultivationStartDate": null,
+        "cropArea": null,
+        "numberOfPlants": null,
+        "farmModel": null,
+        "crops": [
+          "cacao"
+        ],
+        "varieties": []
+      },
+      "name": "Josefina Yolanda Caal Sacul",
+      "totalArea": null,
+      "properties": {
+        "cropArea": null,
+        "customId": "ba78d320-f9ff-11ec-aacc-610345dd393c",
+        "code": "OLD",
+        "crops": [
+          "cacao"
+        ]
+      },
+      "accessControlDivision": null,
+      "parentFacility": {
+        "shortCode": "123",
+        "refcollection": "facilities",
+        "label": "ADIOESMAC",
+        "id": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c",
+        "labelShort": "ADI",
+        "qrCode": "123",
+        "isPreviousVersion": false
+      },
+      "nickName": null,
+      "updatedDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "createdDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "accessControlTag": "referenceData",
+      "location": {
+        "name": "Tzalamtun",
+        "altitudeMin": null,
+        "altitude": null,
+        "latLong": {
+          "lon": -79.762139,
+          "lat": -1.684222
+        },
+        "altitudeMax": null
+      },
+      "plots": [],
+      "meta_workspace": "verapaz_kishan",
+      "contactLastName": null
+    },
+    "ba78fa30-f9ff-11ec-aacc-610345dd393c": {
+      "contactFirstName": null,
+      "nickName": null,
+      "users": [],
+      "location": {
+        "altitudeMax": null,
+        "name": "Tzalamtun",
+        "altitude": null,
+        "altitudeMin": null,
+        "latLong": {
+          "lon": -79.762139,
+          "lat": -1.684222
+        }
+      },
+      "totalArea": null,
+      "properties": {
+        "cropArea": null,
+        "crops": [
+          "cacao"
+        ],
+        "code": "OLD",
+        "customId": "ba78fa30-f9ff-11ec-aacc-610345dd393c"
+      },
+      "isArchived": false,
+      "isDeleted": false,
+      "meta_organisation": "verapaz",
+      "updatedBy": {
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2",
+        "refcollection": "platformusers",
+        "isPreviousVersion": false,
+        "email": "salla@orijin.io"
+      },
+      "accessControlTag": "referenceData",
+      "documents": [],
+      "plots": [],
+      "createdDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "contactLastName": null,
+      "accessControlDivision": null,
+      "meta_workspace": "verapaz_kishan",
+      "timezone": "America/Guatemala",
+      "createdBy": {
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2",
+        "isPreviousVersion": false,
+        "refcollection": "platformusers",
+        "email": "salla@orijin.io"
+      },
+      "address": {
+        "country": "Guatemala",
+        "state": null,
+        "text": null,
+        "properties": {},
+        "street": null,
+        "city": null,
+        "countryCode": "GT",
+        "postalCode": null
+      },
+      "id": {
+        "refcollection": "facilities",
+        "qrCode": "123",
+        "id": "ba78fa30-f9ff-11ec-aacc-610345dd393c",
+        "label": "Macario Tiul Pop",
+        "shortCode": "123",
+        "isPreviousVersion": false
+      },
+      "updatedDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "farmDetails": {
+        "properties": {
+          "address": {
+            "city": null,
+            "text": null,
+            "state": null,
+            "countryCode": "GT",
+            "properties": {},
+            "country": "Guatemala",
+            "postalCode": null,
+            "street": null
+          },
+          "location": {
+            "altitudeMin": null,
+            "altitude": null,
+            "name": "Tzalamtun",
+            "latLong": {
+              "lon": -79.762139,
+              "lat": -1.684222
+            },
+            "altitudeMax": null
+          },
+          "facilityType": "Farm",
+          "parentFacility": {
+            "shortCode": "123",
+            "qrCode": "123",
+            "labelShort": "ADI",
+            "id": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c",
+            "isPreviousVersion": false,
+            "label": "ADIOESMAC",
+            "refcollection": "facilities"
+          }
+        },
+        "farmModel": null,
+        "cultivationStartDate": null,
+        "varieties": [],
+        "crops": [
+          "cacao"
+        ],
+        "cropArea": null,
+        "numberOfPlants": null
+      },
+      "facilityType": "Farm",
+      "name": "Macario Tiul Pop",
+      "parentFacility": {
+        "shortCode": "123",
+        "qrCode": "123",
+        "label": "ADIOESMAC",
+        "labelShort": "ADI",
+        "id": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c",
+        "refcollection": "facilities",
+        "isPreviousVersion": false
+      }
+    },
+    "ba794850-f9ff-11ec-aacc-610345dd393c": {
+      "totalArea": null,
+      "updatedDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "facilityType": "Farm",
+      "documents": [],
+      "users": [],
+      "contactFirstName": null,
+      "contactLastName": null,
+      "parentFacility": {
+        "isPreviousVersion": false,
+        "refcollection": "facilities",
+        "labelShort": "ADI",
+        "id": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c",
+        "shortCode": "123",
+        "qrCode": "123",
+        "label": "ADIOESMAC"
+      },
+      "farmDetails": {
+        "farmModel": null,
+        "cultivationStartDate": null,
+        "crops": [
+          "cacao"
+        ],
+        "varieties": [],
+        "cropArea": null,
+        "numberOfPlants": null,
+        "properties": {
+          "facilityType": "Farm",
+          "location": {
+            "altitudeMin": null,
+            "altitudeMax": null,
+            "altitude": null,
+            "name": "Tzalamtun",
+            "latLong": {
+              "lon": -79.762139,
+              "lat": -1.684222
+            }
+          },
+          "address": {
+            "properties": {},
+            "street": null,
+            "country": "Guatemala",
+            "state": null,
+            "city": null,
+            "countryCode": "GT",
+            "text": null,
+            "postalCode": null
+          },
+          "parentFacility": {
+            "label": "ADIOESMAC",
+            "id": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c",
+            "labelShort": "ADI",
+            "isPreviousVersion": false,
+            "qrCode": "123",
+            "shortCode": "123",
+            "refcollection": "facilities"
+          }
+        }
+      },
+      "accessControlTag": "referenceData",
+      "meta_workspace": "verapaz_kishan",
+      "nickName": null,
+      "properties": {
+        "code": "OLD",
+        "cropArea": null,
+        "customId": "ba794850-f9ff-11ec-aacc-610345dd393c",
+        "crops": [
+          "cacao"
+        ]
+      },
+      "isArchived": false,
+      "createdDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "location": {
+        "latLong": {
+          "lon": -79.762139,
+          "lat": -1.684222
+        },
+        "altitudeMin": null,
+        "altitudeMax": null,
+        "altitude": null,
+        "name": "Tzalamtun"
+      },
+      "address": {
+        "properties": {},
+        "text": null,
+        "city": null,
+        "countryCode": "GT",
+        "state": null,
+        "country": "Guatemala",
+        "postalCode": null,
+        "street": null
+      },
+      "isDeleted": false,
+      "plots": [],
+      "accessControlDivision": null,
+      "createdBy": {
+        "isPreviousVersion": false,
+        "refcollection": "platformusers",
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2",
+        "email": "salla@orijin.io"
+      },
+      "id": {
+        "id": "ba794850-f9ff-11ec-aacc-610345dd393c",
+        "label": "Domingo Caal Cac",
+        "refcollection": "facilities",
+        "shortCode": "123",
+        "qrCode": "123",
+        "isPreviousVersion": false
+      },
+      "updatedBy": {
+        "email": "salla@orijin.io",
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2",
+        "isPreviousVersion": false,
+        "refcollection": "platformusers"
+      },
+      "timezone": "America/Guatemala",
+      "name": "Domingo Caal Cac",
+      "meta_organisation": "verapaz"
+    },
+    "ba796f60-f9ff-11ec-aacc-610345dd393c": {
+      "accessControlDivision": null,
+      "createdBy": {
+        "isPreviousVersion": false,
+        "refcollection": "platformusers",
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2",
+        "email": "salla@orijin.io"
+      },
+      "plots": [],
+      "meta_organisation": "verapaz",
+      "isArchived": false,
+      "documents": [],
+      "accessControlTag": "referenceData",
+      "properties": {
+        "crops": [
+          "cacao"
+        ],
+        "code": "OLD",
+        "customId": "ba796f60-f9ff-11ec-aacc-610345dd393c",
+        "cropArea": null
+      },
+      "contactFirstName": null,
+      "id": {
+        "qrCode": "123",
+        "shortCode": "123",
+        "refcollection": "facilities",
+        "id": "ba796f60-f9ff-11ec-aacc-610345dd393c",
+        "label": "Sebastian Tiul",
+        "isPreviousVersion": false
+      },
+      "name": "Sebastian Tiul",
+      "contactLastName": null,
+      "totalArea": null,
+      "updatedDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "parentFacility": {
+        "label": "ADIOESMAC",
+        "refcollection": "facilities",
+        "id": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c",
+        "labelShort": "ADI",
+        "isPreviousVersion": false,
+        "qrCode": "123",
+        "shortCode": "123"
+      },
+      "users": [],
+      "facilityType": "Farm",
+      "timezone": "America/Guatemala",
+      "address": {
+        "properties": {},
+        "street": null,
+        "city": null,
+        "text": null,
+        "country": "Guatemala",
+        "countryCode": "GT",
+        "postalCode": null,
+        "state": null
+      },
+      "meta_workspace": "verapaz_kishan",
+      "updatedBy": {
+        "email": "salla@orijin.io",
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2",
+        "refcollection": "platformusers",
+        "isPreviousVersion": false
+      },
+      "location": {
+        "altitudeMax": null,
+        "altitudeMin": null,
+        "altitude": null,
+        "name": "Tzalamtun",
+        "latLong": {
+          "lat": -1.684222,
+          "lon": -79.762139
+        }
+      },
+      "nickName": null,
+      "isDeleted": false,
+      "createdDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "farmDetails": {
+        "farmModel": null,
+        "numberOfPlants": null,
+        "crops": [
+          "cacao"
+        ],
+        "properties": {
+          "location": {
+            "name": "Tzalamtun",
+            "altitude": null,
+            "altitudeMin": null,
+            "latLong": {
+              "lon": -79.762139,
+              "lat": -1.684222
+            },
+            "altitudeMax": null
+          },
+          "parentFacility": {
+            "id": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c",
+            "isPreviousVersion": false,
+            "labelShort": "ADI",
+            "qrCode": "123",
+            "shortCode": "123",
+            "refcollection": "facilities",
+            "label": "ADIOESMAC"
+          },
+          "facilityType": "Farm",
+          "address": {
+            "text": null,
+            "postalCode": null,
+            "properties": {},
+            "state": null,
+            "country": "Guatemala",
+            "city": null,
+            "street": null,
+            "countryCode": "GT"
+          }
+        },
+        "cultivationStartDate": null,
+        "cropArea": null,
+        "varieties": []
+      }
+    },
+    "ba799670-f9ff-11ec-aacc-610345dd393c": {
+      "properties": {
+        "crops": [
+          "cacao"
+        ],
+        "customId": "ba799670-f9ff-11ec-aacc-610345dd393c",
+        "code": "OLD",
+        "cropArea": null
+      },
+      "parentFacility": {
+        "labelShort": "ADI",
+        "id": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c",
+        "shortCode": "123",
+        "qrCode": "123",
+        "label": "ADIOESMAC",
+        "isPreviousVersion": false,
+        "refcollection": "facilities"
+      },
+      "contactFirstName": null,
+      "nickName": null,
+      "contactLastName": null,
+      "updatedDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "plots": [],
+      "createdBy": {
+        "isPreviousVersion": false,
+        "refcollection": "platformusers",
+        "email": "salla@orijin.io",
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2"
+      },
+      "updatedBy": {
+        "isPreviousVersion": false,
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2",
+        "email": "salla@orijin.io",
+        "refcollection": "platformusers"
+      },
+      "documents": [],
+      "meta_organisation": "verapaz",
+      "meta_workspace": "verapaz_kishan",
+      "isDeleted": false,
+      "accessControlTag": "referenceData",
+      "totalArea": null,
+      "users": [],
+      "createdDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "name": "Jose Cuz Choc",
+      "location": {
+        "altitudeMax": null,
+        "altitudeMin": null,
+        "name": "Tzalamtun",
+        "altitude": null,
+        "latLong": {
+          "lon": -79.762139,
+          "lat": -1.684222
+        }
+      },
+      "address": {
+        "countryCode": "GT",
+        "postalCode": null,
+        "city": null,
+        "properties": {},
+        "text": null,
+        "state": null,
+        "country": "Guatemala",
+        "street": null
+      },
+      "accessControlDivision": null,
+      "id": {
+        "id": "ba799670-f9ff-11ec-aacc-610345dd393c",
+        "label": "Jose Cuz Choc",
+        "isPreviousVersion": false,
+        "shortCode": "123",
+        "qrCode": "123",
+        "refcollection": "facilities"
+      },
+      "timezone": "America/Guatemala",
+      "facilityType": "Farm",
+      "isArchived": false,
+      "farmDetails": {
+        "cultivationStartDate": null,
+        "cropArea": null,
+        "numberOfPlants": null,
+        "varieties": [],
+        "properties": {
+          "parentFacility": {
+            "isPreviousVersion": false,
+            "id": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c",
+            "shortCode": "123",
+            "qrCode": "123",
+            "refcollection": "facilities",
+            "label": "ADIOESMAC",
+            "labelShort": "ADI"
+          },
+          "facilityType": "Farm",
+          "address": {
+            "street": null,
+            "text": null,
+            "city": null,
+            "postalCode": null,
+            "properties": {},
+            "state": null,
+            "country": "Guatemala",
+            "countryCode": "GT"
+          },
+          "location": {
+            "name": "Tzalamtun",
+            "altitudeMax": null,
+            "latLong": {
+              "lat": -1.684222,
+              "lon": -79.762139
+            },
+            "altitudeMin": null,
+            "altitude": null
+          }
+        },
+        "farmModel": null,
+        "crops": [
+          "cacao"
+        ]
+      }
+    },
+    "ba79bd80-f9ff-11ec-aacc-610345dd393c": {
+      "parentFacility": {
+        "label": "ADIOESMAC",
+        "id": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c",
+        "qrCode": "123",
+        "labelShort": "ADI",
+        "shortCode": "123",
+        "refcollection": "facilities",
+        "isPreviousVersion": false
+      },
+      "address": {
+        "state": null,
+        "properties": {},
+        "text": null,
+        "postalCode": null,
+        "country": "Guatemala",
+        "countryCode": "GT",
+        "street": null,
+        "city": null
+      },
+      "nickName": null,
+      "accessControlTag": "referenceData",
+      "totalArea": null,
+      "createdBy": {
+        "email": "salla@orijin.io",
+        "refcollection": "platformusers",
+        "isPreviousVersion": false,
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2"
+      },
+      "updatedDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "plots": [],
+      "accessControlDivision": null,
+      "name": "Ricardo Cuz",
+      "timezone": "America/Guatemala",
+      "meta_organisation": "verapaz",
+      "createdDate": {
+        "_seconds": 1656763572,
+        "_nanoseconds": 48000000
+      },
+      "isArchived": false,
+      "farmDetails": {
+        "cultivationStartDate": null,
+        "properties": {
+          "facilityType": "Farm",
+          "location": {
+            "altitudeMax": null,
+            "latLong": {
+              "lon": -79.762139,
+              "lat": -1.684222
+            },
+            "altitudeMin": null,
+            "name": "Tzalamtun",
+            "altitude": null
+          },
+          "address": {
+            "street": null,
+            "city": null,
+            "state": null,
+            "countryCode": "GT",
+            "text": null,
+            "properties": {},
+            "country": "Guatemala",
+            "postalCode": null
+          },
+          "parentFacility": {
+            "refcollection": "facilities",
+            "isPreviousVersion": false,
+            "id": "b6b0f5b0-f9ff-11ec-aacc-610345dd393c",
+            "qrCode": "123",
+            "labelShort": "ADI",
+            "label": "ADIOESMAC",
+            "shortCode": "123"
+          }
+        },
+        "numberOfPlants": null,
+        "farmModel": null,
+        "cropArea": null,
+        "crops": [
+          "cacao"
+        ],
+        "varieties": []
+      },
+      "facilityType": "Farm",
+      "users": [],
+      "meta_workspace": "verapaz_kishan",
+      "documents": [],
+      "properties": {
+        "customId": "ba79bd80-f9ff-11ec-aacc-610345dd393c",
+        "code": "OLD",
+        "cropArea": null,
+        "crops": [
+          "cacao"
+        ]
+      },
+      "contactFirstName": null,
+      "contactLastName": null,
+      "id": {
+        "refcollection": "facilities",
+        "label": "Ricardo Cuz",
+        "id": "ba79bd80-f9ff-11ec-aacc-610345dd393c",
+        "isPreviousVersion": false,
+        "shortCode": "123",
+        "qrCode": "123"
+      },
+      "location": {
+        "altitudeMax": null,
+        "altitudeMin": null,
+        "altitude": null,
+        "latLong": {
+          "lon": -79.762139,
+          "lat": -1.684222
+        },
+        "name": "Tzalamtun"
+      },
+      "updatedBy": {
+        "email": "salla@orijin.io",
+        "refcollection": "platformusers",
+        "id": "TQL1bwid2MQJDwUiyz9FaeuzpwC2",
+        "isPreviousVersion": false
+      },
+      "isDeleted": false
+    }
+  }
+}
